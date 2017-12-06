@@ -1,0 +1,7 @@
+<Alloy>
+	<Window>
+		<View id="frameView">
+			<View id="img"/>
+		</View>
+	</Window>
+</Alloy>

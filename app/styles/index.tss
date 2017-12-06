@@ -1,0 +1,13 @@
+"#frameView" : {
+	width: 250,
+	height: 250,
+	touchEnabled: false
+}
+"#img" : {
+	width: 2000,
+	height: 2000,
+	backgroundImage: "/images/turntable.jpg",
+	touchEnabled: false,
+	top:0,
+	left:0
+}
